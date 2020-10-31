@@ -9,3 +9,7 @@ Playtest mt game [here]
 ## Game Proposal Document
 
 Read the documentation for my game [here]
+
+## Prototype
+
+Play the prototype [here](prototype/JiyingSong Twine Game Prototype.html)
