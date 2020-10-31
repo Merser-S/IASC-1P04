@@ -51,3 +51,18 @@ by Maxim Antonov/东方IC
 
 ---
 
+EndGameDefeat
+by Assassin"s Creed Recollection
+2011
+
+---
+
+GameStart
+by Assassin"s Creed Recollection
+2011
+
+---
+
+EndGameVictory
+by Assassin"s Creed Recollection
+2011
