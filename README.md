@@ -4,7 +4,7 @@ Welcome to the website for my Twine Game, created for thecourse IASC 1P04 at Bro
 
 ## Playtest
 
-Playtest mt game [here]
+Playtest mt game [here](playtest/playtest)
 
 ## Game Proposal Document
 
