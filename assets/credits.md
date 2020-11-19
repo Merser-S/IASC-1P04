@@ -66,3 +66,22 @@ by Assassin"s Creed Recollection
 EndGameVictory
 by Assassin"s Creed Recollection
 2011
+
+---
+
+Abandoned office
+by wsfhhnoz
+Number: 340561
+Format: JPG format
+Size: 4860×3892 pixels
+Resolution: 300 DPI
+Size: 7.5MB
+Copyright: Shared material
+http://www.juimg.com/tupian/201303/qitahuanjing_340561.html
+
+---
+
+Jane style home office
+Author: 3D aesthetics
+June 29, 2018 7:12 am
+http://k.sina.com.cn/article_5626445073_p14f5cbd1102700at41.html
